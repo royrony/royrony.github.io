@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://royrony.github.io/sitemap.xml
