@@ -193,10 +193,12 @@ def dodge():
 <section id="screens"><div class="wrap">
 <div class="sec-head"><h2>Screenshots</h2></div>
 {gallery([
-("../../img/dodge-step/menu.jpg", "Dodge Step main menu with Play, How to play and Rewards", "Menu"),
+("../../img/dodge-step/menu-device.jpg", "Dodge Step main menu on an Android tablet with Leaderboard and Achievements buttons", "Menu on Android, with Play Games buttons"),
 ("../../img/dodge-step/play.jpg", "Gameplay with score, level and combo on screen", "Gameplay"),
+("../../img/dodge-step/gameover-device.jpg", "Game Over card on a real device with a one-time Continue option", "Game Over, with one-time Continue"),
+("../../img/dodge-step/achievements-device.jpg", "Google Play Games achievements list showing two of eight unlocked", "Achievements in Google Play Games"),
 ("../../img/dodge-step/paused.jpg", "Pause overlay with resume, settings and quit options", "Pause"),
-("../../img/dodge-step/results.jpg", "Game Over results card with score, best, combo and grade counts", "Results"),
+("../../img/dodge-step/results.jpg", "Results card with score, best, combo and grade counts", "Results"),
 ])}
 </div></section>
 
